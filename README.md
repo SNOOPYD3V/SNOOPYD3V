@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Snoopy and I'm a boy, from Guatemala</p>
+<p align="left">My name is Snoopy and I'm a boy from Guatemala</p>
 
 ###
 
